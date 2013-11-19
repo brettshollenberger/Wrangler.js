@@ -4,7 +4,7 @@ describe('Inflector', function() {
 
   var Inflector;
   beforeEach(function() {
-    Inflector = require('../../../lib/ActiveSupport/inflector/inflector');
+    Inflector = require('../../../lib/active-support/inflector/inflector');
   });
 
   describe('String#sub', function() {

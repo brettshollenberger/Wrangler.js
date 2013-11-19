@@ -4,8 +4,8 @@ describe('ActiveRecord', function() {
 
   var ActiveRecord, System, Sensor, Collection, Inflector, system;
   beforeEach(function() {
-    ActiveRecord = require('../../lib/ActiveRecord/ActiveRecord');
-    Collection   = require('../../lib/ActiveRecord/collection/collection');
+    ActiveRecord = require('../../lib/active-record/active-record');
+    Collection   = require('../../lib/active-record/collection/collection');
 
     Sensor = function Sensor(data) {
       if (!data) data = {};

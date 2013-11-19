@@ -4,7 +4,7 @@ describe('Inflections', function() {
 
   var Inflections, inflections;
   beforeEach(function() {
-    Inflections = require('../../../lib/ActiveSupport/inflector/inflections');
+    Inflections = require('../../../lib/active-support/inflector/inflections');
     inflections = new Inflections();
   });
 
