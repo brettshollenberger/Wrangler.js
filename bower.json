@@ -1,0 +1,22 @@
+{
+  "name": "wrangler",
+  "version": "0.0.1",
+  "homepage": "https://github.com/brettshollenberger/Wrangler.js",
+  "authors": [
+    "Brett Shollenberger <brett.shollenberger@gmail.com>"
+  ],
+  "description": "Angular.js Framework",
+  "keywords": [
+    "Angular",
+    "Rails",
+    "framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

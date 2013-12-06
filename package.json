@@ -1,5 +1,5 @@
 {
-  "name": "your-sweet-unit-test",
+  "name": "wrangler",
   "version": "0.0.0",
   "dependencies": {
     "lodash": "latest",
